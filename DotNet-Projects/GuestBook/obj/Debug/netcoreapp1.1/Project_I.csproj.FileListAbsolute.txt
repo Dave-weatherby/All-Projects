@@ -1,0 +1,8 @@
+C:\Users\David\Desktop\Dotnet\Projects\Project_I\bin\Debug\netcoreapp1.1\Project_I.deps.json
+C:\Users\David\Desktop\Dotnet\Projects\Project_I\bin\Debug\netcoreapp1.1\Project_I.runtimeconfig.json
+C:\Users\David\Desktop\Dotnet\Projects\Project_I\bin\Debug\netcoreapp1.1\Project_I.runtimeconfig.dev.json
+C:\Users\David\Desktop\Dotnet\Projects\Project_I\bin\Debug\netcoreapp1.1\Project_I.dll
+C:\Users\David\Desktop\Dotnet\Projects\Project_I\bin\Debug\netcoreapp1.1\Project_I.pdb
+C:\Users\David\Desktop\Dotnet\Projects\Project_I\obj\Debug\netcoreapp1.1\Project_I.AssemblyInfo.cs
+C:\Users\David\Desktop\Dotnet\Projects\Project_I\obj\Debug\netcoreapp1.1\Project_I.dll
+C:\Users\David\Desktop\Dotnet\Projects\Project_I\obj\Debug\netcoreapp1.1\Project_I.pdb

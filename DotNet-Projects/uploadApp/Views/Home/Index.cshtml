@@ -1,0 +1,30 @@
+﻿@model uploadApp.Models.ImageManager
+
+<form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="Upload">
+    <div class="row" style="margin-bottom:20px;">
+        <div class="col-sm-12">
+            <label class="btn btn-primary btn-file">
+                Browse Files <input id="btnUpload" type="file" name="selectedFile" style="display:none;" />
+            </label>
+            <span id="fileName">No File Selected</span>
+            <div style="margin-top:20px;">
+                <input type="submit" text="Upload Image" class="btn btn-primary" />
+                <small class="text-primary">@ViewData["feedback"]</small>
+            </div>
+            <div>
+                <h5>@Model.displayError</h5>
+            </div>
+        </div>
+    </div>
+</form>
+
+<div class="row" style="margin-bottom:20px;">
+    <div class="col-sm-12">
+        <h5>View all your images here</h5>
+        <div class="jumbotron">
+            @foreach (var item in Model.imageSources) {
+                <img src="@item" alt="@item" style="margin:5px;border-radius:10px;" />
+            }
+        </div>
+    </div>
+</div>

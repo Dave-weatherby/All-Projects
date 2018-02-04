@@ -1,0 +1,40 @@
+/Users/w0090347/Documents/_workspace/_FALL SEMESTER PREPPING/INET2005 Web Application Development I/unit04/_CORE 4-2/uploadApp/bin/Debug/netcoreapp1.1/uploadApp.deps.json
+/Users/w0090347/Documents/_workspace/_FALL SEMESTER PREPPING/INET2005 Web Application Development I/unit04/_CORE 4-2/uploadApp/bin/Debug/netcoreapp1.1/uploadApp.runtimeconfig.json
+/Users/w0090347/Documents/_workspace/_FALL SEMESTER PREPPING/INET2005 Web Application Development I/unit04/_CORE 4-2/uploadApp/bin/Debug/netcoreapp1.1/uploadApp.runtimeconfig.dev.json
+/Users/w0090347/Documents/_workspace/_FALL SEMESTER PREPPING/INET2005 Web Application Development I/unit04/_CORE 4-2/uploadApp/bin/Debug/netcoreapp1.1/uploadApp.dll
+/Users/w0090347/Documents/_workspace/_FALL SEMESTER PREPPING/INET2005 Web Application Development I/unit04/_CORE 4-2/uploadApp/bin/Debug/netcoreapp1.1/uploadApp.pdb
+/Users/w0090347/Documents/_workspace/_FALL SEMESTER PREPPING/INET2005 Web Application Development I/unit04/_CORE 4-2/uploadApp/obj/Debug/netcoreapp1.1/uploadApp.AssemblyInfo.cs
+/Users/w0090347/Documents/_workspace/_FALL SEMESTER PREPPING/INET2005 Web Application Development I/unit04/_CORE 4-2/uploadApp/obj/Debug/netcoreapp1.1/uploadApp.dll
+/Users/w0090347/Documents/_workspace/_FALL SEMESTER PREPPING/INET2005 Web Application Development I/unit04/_CORE 4-2/uploadApp/obj/Debug/netcoreapp1.1/uploadApp.pdb
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadAppDone/bin/Debug/netcoreapp1.1/uploadApp.deps.json
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadAppDone/bin/Debug/netcoreapp1.1/uploadApp.runtimeconfig.json
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadAppDone/bin/Debug/netcoreapp1.1/uploadApp.runtimeconfig.dev.json
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadAppDone/bin/Debug/netcoreapp1.1/uploadApp.dll
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadAppDone/bin/Debug/netcoreapp1.1/uploadApp.pdb
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadAppDone/obj/Debug/netcoreapp1.1/uploadApp.AssemblyInfo.cs
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadAppDone/obj/Debug/netcoreapp1.1/uploadApp.dll
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadAppDone/obj/Debug/netcoreapp1.1/uploadApp.pdb
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadApp/bin/Debug/netcoreapp1.1/uploadApp.deps.json
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadApp/bin/Debug/netcoreapp1.1/uploadApp.runtimeconfig.json
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadApp/bin/Debug/netcoreapp1.1/uploadApp.runtimeconfig.dev.json
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadApp/obj/Debug/netcoreapp1.1/uploadApp.AssemblyInfo.cs
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadApp/obj/Debug/netcoreapp1.1/uploadApp.dll
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadApp/obj/Debug/netcoreapp1.1/uploadApp.pdb
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadApp/bin/Debug/netcoreapp1.1/uploadApp.dll
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit04/4-3/uploadApp/bin/Debug/netcoreapp1.1/uploadApp.pdb
+E:\INET2005 Web Application Development I\unit04\4-3\uploadApp\bin\Debug\netcoreapp1.1\uploadApp.deps.json
+E:\INET2005 Web Application Development I\unit04\4-3\uploadApp\bin\Debug\netcoreapp1.1\uploadApp.runtimeconfig.json
+E:\INET2005 Web Application Development I\unit04\4-3\uploadApp\bin\Debug\netcoreapp1.1\uploadApp.runtimeconfig.dev.json
+E:\INET2005 Web Application Development I\unit04\4-3\uploadApp\obj\Debug\netcoreapp1.1\uploadApp.AssemblyInfo.cs
+E:\INET2005 Web Application Development I\unit04\4-3\uploadApp\obj\Debug\netcoreapp1.1\uploadApp.dll
+E:\INET2005 Web Application Development I\unit04\4-3\uploadApp\obj\Debug\netcoreapp1.1\uploadApp.pdb
+E:\INET2005 Web Application Development I\unit04\4-3\uploadApp\bin\Debug\netcoreapp1.1\uploadApp.dll
+E:\INET2005 Web Application Development I\unit04\4-3\uploadApp\bin\Debug\netcoreapp1.1\uploadApp.pdb
+C:\Users\David\Desktop\Dotnet\uploadApp\bin\Debug\netcoreapp1.1\uploadApp.deps.json
+C:\Users\David\Desktop\Dotnet\uploadApp\bin\Debug\netcoreapp1.1\uploadApp.runtimeconfig.json
+C:\Users\David\Desktop\Dotnet\uploadApp\bin\Debug\netcoreapp1.1\uploadApp.runtimeconfig.dev.json
+C:\Users\David\Desktop\Dotnet\uploadApp\bin\Debug\netcoreapp1.1\uploadApp.dll
+C:\Users\David\Desktop\Dotnet\uploadApp\bin\Debug\netcoreapp1.1\uploadApp.pdb
+C:\Users\David\Desktop\Dotnet\uploadApp\obj\Debug\netcoreapp1.1\uploadApp.AssemblyInfo.cs
+C:\Users\David\Desktop\Dotnet\uploadApp\obj\Debug\netcoreapp1.1\uploadApp.dll
+C:\Users\David\Desktop\Dotnet\uploadApp\obj\Debug\netcoreapp1.1\uploadApp.pdb

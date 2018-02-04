@@ -1,0 +1,42 @@
+@mixin display-flex() {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+@mixin flex($args) {
+    -webkit-box-flex: $args;
+    -webkit-flex: $args;
+    -ms-flex: $args;
+    flex: $args; 
+}
+
+html {
+	height:100%;
+	overflow-y: scroll;
+}
+
+body {
+    height:100%;
+	padding:0;
+    margin:0;
+    background-color: #232323;
+}
+
+.main {
+	height:100%;
+	@include display-flex();
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+
+    &__insult {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 50px;
+        color: #FFFFFF;
+        font-style: italic;
+        max-width: 75%;
+    }
+}

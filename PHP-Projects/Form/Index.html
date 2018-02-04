@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TV Tracker Form</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+<body>
+    <div class="col-sm-5" style="padding-left: 50px;">
+        <h1>TV Tracker</h1>
+        <form class="form-group" method="post" action="thanks.php">
+            <table class="row">
+                <td style="padding-right: 50px;">
+                    <p>
+                    First Name: <input class="form-control" type="text" name="fName" size=10>
+                    </p>
+                    <p>
+                    Last Name: <input class="form-control" type="text" name="lName" size=10>
+                    </p>
+                    <p>
+                    Year of Birth: <input  class="form-control" type="number" min="1960" max="2018" name="YoB" size=10>
+                    </p>
+                    <p>
+                    Current Year at School: <input  class="form-control" type="number" min="7" max="12" name="SY" size=10>
+                    </p>
+                </td>
+                <td>
+                    <p>
+                    The Time You go to Bed: <input class="form-control" type="number" min="0" max="24" name="bTime" size=10>
+                    </p>
+                    <p>
+                    The Time You Spend on Homework: <input class="form-control" type="number" min="0" max="24" name="hTime" size=10>
+                    </p>
+                    <p>
+                    The Time You Spend on TV/Youtube/Netflex: <input class="form-control" type="number" min="0" max="24" name="rTime" size=10>
+                    </p>
+                    <p>
+                    The Time You Spend Using the Computer/Playing Video Games: <input class="form-control" type="number" min="0" max="24" name="cTime" size=10>
+                    </p>
+                    <p>
+                    The Time You Spend With Friends and Family: <input class="form-control" type="number" min="0" max="24" name="fTime" size=10>
+                    </p>
+                    <p>
+                    The Time You Spend Outside: <input class="form-control" type="number" min="0" max="24" name="oTime" size=10>
+                    </p>
+                </td>
+            </table>
+            <p>
+                <input class="btn btn-primary" type="submit" name="submit" value="Submit Form">
+            </p>
+        </form>
+    </div>
+</body>
+</html>
+

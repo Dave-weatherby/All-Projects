@@ -1,0 +1,58 @@
+﻿@model Project_I.Models.GuestBook
+
+<div class="row" id="top">
+    <h2 style="text-align: center;">GuestBook</h2>
+    <div>
+        <!--Checkbox that opens and closes the form-->
+        <input id="addForm" name="addForm" type="checkbox" checked="@Model.check" />
+        <span class="h4">Open Add Entry Form</span>
+    </div>
+    <!--Form that uses the submit action to add to the database-->
+    <form asp-controller="Home" asp-action="Submit">
+        <div id="hideMe" class="col-sm-12" style="display:none">
+            <h3>Enter Your Info Here.</h3>
+            <div class="jumbotron">
+                <label>First Name:</label>
+                <input id="firstName" name="firstName" type="text" maxlength="25" class="form-control"/>
+                <label>Last Name:</label>
+                <input id="lastName" name="lastName" type="text" maxlength="25" class="form-control"/>
+            </div>
+            <div class="jumbotron">
+                <label>GuestBook Entry:</label>
+                <textarea class="form-control" onkeyup="countChar(this)" maxlength="100" rows="5" id="entry" name="entry"></textarea>
+                <span id="charLeft">100 characters remaining</span>
+            </div>
+            <div>
+                <button type="submit" class="btn btn-primary">Add Entry</button>
+            </div>
+        </div>
+    </form>
+</div>
+<div class="row">
+    <div class="col-sm-12">
+        <!--Table that displays the database fields-->
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Date</th>
+                    <th>Entry</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!--Loop that populates the table with database entrys-->
+                @foreach (var item in Model.entrys) {
+                    <tr>
+                        <td>@item.firstName</td>
+                        <td>@item.lastName</td>
+                        <td>@item.date</td>
+                        <td>@item.entry</td>
+                        <td><a href="#top" class="h5">Back to Top</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>

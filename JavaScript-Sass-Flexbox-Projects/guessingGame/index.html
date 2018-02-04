@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Number Guessing Game</title>
+		<link rel="stylesheet" type="text/css" href="css/styles.css" />
+    </head>
+    <body>
+        <div class="main">
+            <div class="header">
+                <div class="header__title">Number Guessing Game :)</div>
+                <div class="header__sub-title">Won Games: <span id="lblWon">0</span> / Lost Games: <span id="lblLost">0</span></div>    
+            </div>
+            <div class="content">             
+                <div class="content__prompt">Please enter your guess between 1 and 100:</div>
+                <input id="txtGuess" type="text" maxlength="3" class="content__textbox" />
+                <input id="btnSubmit" type="button" value="Ok" class="content__button" /> Guess #<span id="lblGuessCount">1</span>
+                
+                <div class="content__feedback" id="lblFeedback"></div>
+            </div>
+        </div>
+        <script type="text/javascript" src="build/build.js"></script>                
+    </body>
+</html>

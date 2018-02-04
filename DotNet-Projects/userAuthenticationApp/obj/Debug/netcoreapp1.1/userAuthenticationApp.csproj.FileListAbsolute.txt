@@ -1,0 +1,16 @@
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit07/_CORE 7-1/userAuthenticationApp/bin/Debug/netcoreapp1.1/userAuthenticationApp.deps.json
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit07/_CORE 7-1/userAuthenticationApp/bin/Debug/netcoreapp1.1/userAuthenticationApp.runtimeconfig.json
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit07/_CORE 7-1/userAuthenticationApp/bin/Debug/netcoreapp1.1/userAuthenticationApp.runtimeconfig.dev.json
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit07/_CORE 7-1/userAuthenticationApp/bin/Debug/netcoreapp1.1/userAuthenticationApp.dll
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit07/_CORE 7-1/userAuthenticationApp/bin/Debug/netcoreapp1.1/userAuthenticationApp.pdb
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit07/_CORE 7-1/userAuthenticationApp/obj/Debug/netcoreapp1.1/userAuthenticationApp.AssemblyInfo.cs
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit07/_CORE 7-1/userAuthenticationApp/obj/Debug/netcoreapp1.1/userAuthenticationApp.dll
+/Users/w0090347/Documents/_workspace/INET2005 Web Application Development I/unit07/_CORE 7-1/userAuthenticationApp/obj/Debug/netcoreapp1.1/userAuthenticationApp.pdb
+C:\Users\David\Desktop\Dotnet\userAuthenticationApp\bin\Debug\netcoreapp1.1\userAuthenticationApp.deps.json
+C:\Users\David\Desktop\Dotnet\userAuthenticationApp\bin\Debug\netcoreapp1.1\userAuthenticationApp.runtimeconfig.json
+C:\Users\David\Desktop\Dotnet\userAuthenticationApp\bin\Debug\netcoreapp1.1\userAuthenticationApp.runtimeconfig.dev.json
+C:\Users\David\Desktop\Dotnet\userAuthenticationApp\bin\Debug\netcoreapp1.1\userAuthenticationApp.dll
+C:\Users\David\Desktop\Dotnet\userAuthenticationApp\bin\Debug\netcoreapp1.1\userAuthenticationApp.pdb
+C:\Users\David\Desktop\Dotnet\userAuthenticationApp\obj\Debug\netcoreapp1.1\userAuthenticationApp.AssemblyInfo.cs
+C:\Users\David\Desktop\Dotnet\userAuthenticationApp\obj\Debug\netcoreapp1.1\userAuthenticationApp.dll
+C:\Users\David\Desktop\Dotnet\userAuthenticationApp\obj\Debug\netcoreapp1.1\userAuthenticationApp.pdb

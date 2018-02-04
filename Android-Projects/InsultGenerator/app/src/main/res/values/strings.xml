@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">Insult Generator :)</string>
+    <string name="prompt">Enter the name of your victim:</string>
+    <string name="testInsult">[Pick up generated insult here]</string>
+    <string name="btnGo">Hit Me!</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnHelp">\?</string>
+    <string name="lblHelp">Enter the name of the victim into the textbox and press the \"Hit Me!\" button. To clear the insult and textbox click the \"Clear\" button.</string>
+    <string name="lblInsultCount">Number of insults generated: </string>
+    <string name="error">ERROR : No victim name has been entered</string>
+    <string name="insultJoin">is a</string>
+    <string-array name="adjectives_array">
+        <item>nasty</item>
+        <item>dumb</item>
+        <item>dorky</item>
+        <item>awful</item>
+        <item>horrible</item>
+        <item>stupid</item>
+        <item>mean</item>
+        <item>snotty</item>
+        <item>dirty</item>
+        <item>smelly</item>
+        <item>vindictive</item>
+        <item>self righteous</item>
+        <item>foolish</item>
+        <item>selfish</item>
+        <item>dreadful</item>
+        <item>useless</item>
+        <item>idiotic</item>
+        <item>moronic</item>
+    </string-array>
+    <string-array name="nouns_array">
+        <item>pig</item>
+        <item>dork</item>
+        <item>geek</item>
+        <item>meanie</item>
+        <item>cow</item>
+        <item>dummie</item>
+        <item>loser</item>
+        <item>wanker</item>
+        <item>tosser</item>
+        <item>junkie</item>
+        <item>nerdlinger</item>
+        <item>nit wit</item>
+        <item>idiot</item>
+        <item>moron</item>
+        <item>jerk</item>
+        <item>rotter</item>
+        <item>bastard</item>
+    </string-array>
+
+</resources>
